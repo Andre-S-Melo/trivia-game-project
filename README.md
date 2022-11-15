@@ -20,7 +20,7 @@ Utilizamos a [API do Trivia](https://opentdb.com/api_config.php) para:
 ###  API do Gravatar
 
 Utilizamos a API do [Gravatar](https://br.gravatar.com/site/implement/images/) para:
-- **Vincular a fota cadastrada no Gravatar**
+- **Vincular a foto cadastrada no Gravatar**
 
 ## Durante o desenvolvimento deste projeto fixamos os conhecimentos em:
 
